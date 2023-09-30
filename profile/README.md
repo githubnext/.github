@@ -1,12 +1,6 @@
-## Hi there 👋
+# GitHub Next investigates the future of software development
 
-<!--
+We are a team of researchers and engineers at GitHub, exploring things beyond the adjacent possible. We prototype tools and technologies that will change our craft. We identify new approaches to building healthy, productive software engineering teams.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+https://githubnext.com to learn more.
+✌️❤️
